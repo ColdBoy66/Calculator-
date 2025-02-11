@@ -45,7 +45,6 @@ This application allows users to:
 
 [@ColdBoy66](https://github.com/ColdBoy66)
 
-*Replace `your-github-nickname` with your actual GitHub username.*
 
 ---
 
